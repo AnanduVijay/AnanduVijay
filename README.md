@@ -1,10 +1,17 @@
 <h2 align='center'><samp><strong>Hi there 👋, I am Anandu Vijay</strong></samp></h2>
 <h3 align='center'><strong><a href="#" target="_blank">Portfolio⏳</a></strong></h3>
 
+<br>
 
 <p align='center'> Django developer | React developer | Web developer</p>
 
 <p align='left'> A self taught software developer who is always passionate for learning more about tech and life. Programmer specialized in <b>Web development</b> using multiple <b>Tools, Frameworks and Libraries</b></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -38,6 +45,15 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 <p align="right"> 
    <a href="https://www.linkedin.com/in/anandu-vijay-726302148/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <!--   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
